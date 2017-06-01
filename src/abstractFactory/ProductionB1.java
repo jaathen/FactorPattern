@@ -6,6 +6,6 @@ package abstractFactory;
 public class ProductionB1 implements productionB{
     @Override
     public void funB() {
-
+        System.out.println("funB");
     }
 }
